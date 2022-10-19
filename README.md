@@ -1,5 +1,8 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
+## <h2>Live version:</h2>
+ - [Site](https://celebrated-gaufre-dee8a5.netlify.app)
+
 <p align="center">
 Exclusive and free event, promoted by Rocketseat for teaching WEB technologies.
 </p>
